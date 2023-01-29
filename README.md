@@ -5,7 +5,7 @@
 
 <h3>Links</h3>
 <p>Solution URL:</p>
-<p>Live Site URL:</p>
+<a href="https://tsikvi.github.io/nft-preview-card/"> Live Site URL</a>
 
 <h3>Built with</h3>
 
