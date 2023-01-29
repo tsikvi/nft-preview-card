@@ -4,7 +4,8 @@
 <img src="Screenshot.png">
 
 <h3>Links</h3>
-<p>Solution URL:</p>
+<a href="https://www.frontendmentor.io/solutions/responsive-onepage-project-with-css-flexbox-YYRlkv60qj">Solution URL </a>
+<br>
 <a href="https://tsikvi.github.io/nft-preview-card/"> Live Site URL</a>
 
 <h3>Built with</h3>
